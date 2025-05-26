@@ -1,5 +1,5 @@
 # 🏓 Pong in Python
-Made this classic Pong game after finishing the Advanced Programming (BSCS1002) course at the University of Helsinki — because who doesn’t love bouncing pixels?
+Made this classic Pong game after finishing the Advanced Programming (BSCS1002) course at the University of Helsinki
 
 ## 🎮 Controls
 - Player 1 (Left): W / S
