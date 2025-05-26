@@ -12,4 +12,4 @@ Made this classic Pong game after finishing the Advanced Programming (BSCS1002) 
 - Pure Python + turtle module
 
 ## 🚀 How to Play
-Just run the script and have fun!!!
+Just run the main.py file and have fun!!!
