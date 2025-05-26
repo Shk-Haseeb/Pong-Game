@@ -1,5 +1,15 @@
-This project is a simple implementation of the classic Pong game using Python's Turtle graphics library. Two players compete to score points by bouncing a ball past their opponent's paddle. Player 1 controls the left paddle using the W (up) and S (down) keys, while Player 2 controls the right paddle using the Up Arrow (up) and Down Arrow (down) keys. The game tracks scores and adjusts the ball's speed dynamically to increase the challenge as the game progresses.
+# 🏓 Pong in Python
+Made this classic Pong game after finishing the Advanced Programming (BSCS1002) course at the University of Helsinki — because who doesn’t love bouncing pixels?
 
-The program features intuitive controls, responsive ball and paddle collision mechanics, and a minimalist design with a black background for a retro aesthetic. It's a fun, quick-to-play game for two players to enjoy on a shared keyboard.
+## 🎮 Controls
+- Player 1 (Left): W / S
+- Player 2 (Right): ↑ / ↓
 
-Simply run the script and dive into this timeless arcade classic!!!
+## ⚙️ Features
+- Retro black background
+- Score tracking
+- Speedy ball as the game goes on
+- Pure Python + turtle module
+
+## 🚀 How to Play
+Just run the script and have fun!!!
