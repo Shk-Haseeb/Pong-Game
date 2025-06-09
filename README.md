@@ -3,7 +3,7 @@
 This is a classic Pong game made in **pure Python** using the `turtle` module.  
 Built after completing the *Advanced Programming* (BSCS1002) course at the University of Helsinki — just for fun and practice.
 
-![Game Screenshot](/images/pong-screenshot.png) <!-- Replace with your actual image path -->
+![Game Screenshot](/images/Pong_Screenshot.png) <!-- Replace with your actual image path -->
 
 ---
 
